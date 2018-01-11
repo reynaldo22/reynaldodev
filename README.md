@@ -11,6 +11,3 @@ If you interested you can download for your reference and first look to make you
 
 Please do not copy all of my source code, and make your own Website with your creativity :)
 
-Npm 
-
-`npm install reynaldodev`
