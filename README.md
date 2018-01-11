@@ -10,3 +10,7 @@ I'm sorry for a lot of my source code, i'm using many frameworks from soruce cod
 If you interested you can download for your reference and first look to make your own Personal Website
 
 Please do not copy all of my source code, and make your own Website with your creativity :)
+
+Npm 
+
+'npm install reynaldodev'
